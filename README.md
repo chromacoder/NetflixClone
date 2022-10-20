@@ -1,11 +1,17 @@
 # NetflixClone
-This is a netflix clone project . 
+What is Netflix clone project?
+Netflix Clone is an on-demand video streaming app solution that helps to launch your own on-demand OTT platform like Netflix, where you can watch unlimited movies & TV shows for one low month to month cost. Netflix Clone broadcasts movies and TV shows over the Internet to new locations with enormous audiences.
 
 # Features
 - Live Watch
 - Supported on different devies 
 - High quality content support
-- Propose yours feature 🤗🤗
+- Registration and Login:
+- User Profile:
+- Live Video Streaming:
+- Subscription Plan Purchase:
+- Payment Gateway:
+- Multiple Language Support:
 
 # Tech Stack used 
 - HTML
