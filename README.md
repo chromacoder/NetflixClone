@@ -6,12 +6,13 @@ Netflix Clone is an on-demand video streaming app solution that helps to launch 
 - Live Watch
 - Supported on different devies 
 - High quality content support
-- Registration and Login:
-- User Profile:
-- Live Video Streaming:
-- Subscription Plan Purchase:
-- Payment Gateway:
-- Multiple Language Support:
+- Login & Signup Option 
+- User Profile
+- Live Video Streaming
+- Subscription Plan Purchase
+- Payment Gateway
+- Multiple Language Support 
+- Help & Support 
 
 # Tech Stack used 
 - HTML
