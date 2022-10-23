@@ -180,6 +180,28 @@ nav .link:last-child {
   flex-shrink: 1;
 }
 
+.column img{
+  height: 250px;
+}
+
+@media only screen and (max-width:1080px){
+  .column img{
+   height: 180px;
+  }
+}
+
+@media only screen and (max-width:720px){
+  .column img{
+   height: 150px;
+  }
+
+  .columns {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+
 .column.is-25 {
   flex: none;
   width: 25%;
